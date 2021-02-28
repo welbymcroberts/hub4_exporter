@@ -1,0 +1,4 @@
+port: 3230
+instances:
+  - name: "Home"
+    address: 192.168.100.1
